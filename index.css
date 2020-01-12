@@ -1,0 +1,178 @@
+/*  nav start */
+
+#nav{
+    height: 7vh;
+    background: black;
+    color: white;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.nav{
+    display: inline;
+}
+
+.nav-left{
+    border-left: white solid 3px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+#home{
+    color: white;
+    text-decoration: none;
+}
+
+#right{
+    text-align: center;
+}
+
+.nav-right{
+    margin-left: 10px;
+    float: right;
+    margin-right: 20px;
+
+}
+
+/* nav end */
+
+/* banner start */
+#banner{
+    height: 100vh;
+    background: url('./bg.jpeg');
+    background-size: cover;
+}
+
+#child-banner{
+    position: relative;
+    top: 93%;
+    left: 27%;
+    background: rgba(219, 101, 22, 0.726);
+    width: 45vw;
+    height: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 20px;
+    padding-left: 3%;
+
+}
+
+.helper{
+    padding-left: 30px ;
+    margin: 20px;
+    border-left: white solid 3px;
+    color: white;
+    margin-top: 10px;
+}
+
+#helper{
+    padding-left: 30px ;
+    margin: 20px;
+    color: white;
+    margin-top: 10px;
+}
+/* banner end */
+
+
+
+
+/* css product start */
+#container{
+    height: 45vh;
+}
+.product{
+    display: inline-block;
+    width: 10%;
+    position: relative;
+    left: 20%;
+    top: 25%;
+    text-align: center;
+    height: 200px;
+    margin-left: 30px;
+}
+
+.icon{
+    font-size: 60px;
+    color: rgba(219, 101, 22, 1);
+}
+
+/* css product end */
+
+
+#space{
+    background: rgba(219, 101, 22, 1);
+    height: 20px;
+}
+
+/* css course start */
+.course{
+    display: inline-block;
+    width: 6%;
+    position: relative;
+    left: 20%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.courses{
+    display: inline;
+    padding-top: 10%;
+}
+
+.icn{
+    font-size: 50px;
+}
+
+/* css course end */
+
+
+/* footer */
+.foot{
+    display: inline;
+}
+
+#footer{
+    margin-top: 20px;
+    color: white;
+    background: black;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+
+#copy{
+    float: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#do{
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.foo{
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
